@@ -5,281 +5,281 @@ export const courseData = {
     common: [1, 2],
     data: {
       1: { common: {
-        syllabus: "https://drive.google.com/drive/folders/1HNJl7VImLa0lnjZ61EcsZ0dzqV-Y0GAd?usp=drive_link",
-        books: "https://drive.google.com/drive/folders/1ajsAUaz1o9nZM0yjNU6xlS0nDU6sdFyj?usp=drive_link",
-        notes: "https://drive.google.com/drive/folders/111Od85kZRGN-f-JQZY9XjNA_xiL9nyzL?usp=drive_link",
-        questions: "https://drive.google.com/drive/folders/1czZtX0zCzNbf1q0qxcztayfOXcLxIeAG?usp=drive_link",
-        videos: "https://drive.google.com/drive/folders/1ypkEIxiBOsbaGmUHQzc00sknG_-0oFbx?usp=drive_link",
-        papers: "https://drive.google.com/drive/folders/1pHo8ZUevYnq-sNG316vhF-unZ7LNUOEN?usp=drive_link"
+        syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUhOSmw3VkltTGEwbG5qWjYxRWNzWjBkenFWLVkwR0FkP3VzcD1kcml2ZV9saW5r",
+        books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWFqc0FVYXoxbzluWk0weWpOVTZ4bFMwbkRVNnNkRnlqP3VzcD1kcml2ZV9saW5r",
+        notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTExT2Q4NWtaUkdOLWYtSlFaWTlYak5BX3hpTDlueXpMP3VzcD1kcml2ZV9saW5r",
+        questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWN6WnRYMHpDek5iZjFxMHF4Y3p0YXlmT1hjTHhJZUFHP3VzcD1kcml2ZV9saW5r",
+        videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXlwa0VJeGlCT3NiYUdtVUhRemMwMHNrbkdfLTBvRmJ4P3VzcD1kcml2ZV9saW5r",
+        papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXBIbzhaVWV2WW5xLXNORzMxNnZoRi11blo3TE5VT0VOP3VzcD1kcml2ZV9saW5r"
       }},
       2: { common: {
-        syllabus: "https://drive.google.com/drive/folders/1qZ0SRoh7GFeNvbYMB-nc0rp5EMYKC5YS?usp=drive_link",
-        books: "https://drive.google.com/drive/folders/1OKPfXYmsHQ5n46fGgJ-EfAtl-vYHQc2D?usp=drive_link",
-        notes: "https://drive.google.com/drive/folders/1B8EfJXXb0eTL3aTTQA9w_dncPiqoQ2DS?usp=drive_link",
-        questions: "https://drive.google.com/drive/folders/1njD9ED2Gbj04pKbl9aeuxNSCk6EVt--L?usp=drive_link",
-        videos: "https://drive.google.com/drive/folders/1hW1-1iu2pPGdR4ZS6vnoz3kWgHhPzrzf?usp=drive_link",
-        papers: "https://drive.google.com/drive/folders/1_zgWTXT73As3SHqKlHPc0tPRBYgZ_JFg?usp=drive_link"
+        syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXFaMFNSb2g3R0ZlTnZiWU1CLW5jMHJwNUVNWUtDNVlTP3VzcD1kcml2ZV9saW5r",
+        books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMU9LUGZYWW1zSFE1bjQ2ZkdnSi1FZkF0bC12WUhRYzJEP3VzcD1kcml2ZV9saW5r",
+        notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUI4RWZKWFhiMGVUTDNhVFRRQTl3X2RuY1BpcW9RMkRTP3VzcD1kcml2ZV9saW5r",
+        questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMW5qRDlFRDJHYmowNHBLYmw5YWV1eE5TQ2s2RVZ0LS1MP3VzcD1kcml2ZV9saW5r",
+        videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWhXMS0xaXUycFBHZFI0WlM2dm5vejNrV2dIaFB6cnpmP3VzcD1kcml2ZV9saW5r",
+        papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMV96Z1dUWFQ3M0FzM1NIcUtsSFBjMHRQUkJZZ1pfSkZnP3VzcD1kcml2ZV9saW5r"
       }},
       // Add more semesters and branches as needed
       3: {
         CIVIL: {
-          syllabus: "https://drive.google.com/drive/folders/12jh59HEyuxxAL60Fr3Pso2uqfLLZvWaG?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/1sBQufSl8J7WVPnB11-aT5HQ3s800BtdF?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/1XKf2Tdb2Se858lRiAv_5mku0pHOsKcQN?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/1F7MH_7DHC1IIGWf4Eq6FB29nmIpYv3fv?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/1a7i9jod2iYfeOCBz5Dok7mKhEQSiaiHr?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1aA5IdeQguqcu2RxxQVYqRAT43_bo0zEm?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTJqaDU5SEV5dXh4QUw2MEZyM1BzbzJ1cWZMTFp2V2FHP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXNCUXVmU2w4SjdXVlBuQjExLWFUNUhRM3M4MDBCdGRGP3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVhLZjJUZGIyU2U4NThsUmlBdl81bWt1MHBIT3NLY1FOP3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUY3TUhfN0RIQzFJSUdXZjRFcTZGQjI5bm1JcFl2M2Z2P3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWE3aTlqb2QyaVlmZU9DQno1RG9rN21LaEVRU2lhaUhyP3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWFBNUlkZVFndXFjdTJSeHhRVllxUkFUNDNfYm8wekVtP3VzcD1kcml2ZV9saW5r"
         },
         CSE: {
-          syllabus: "https://drive.google.com/drive/folders/1W01vH4_KPyuSXU3xhs93znkAk7Fu44yD?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/1VotJ0OYIy5zXjywFnfqi3kKmwIjFU75C?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/1ZkXXedbp2ErifkJfOZzWWqEGoyPVIgmX?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/101IE-3nSXj3zKhnox2GY2yYjMlMIzYMU?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/1oq5wP4Epi3eELv-XrsKuwuaA3wAbwNWI?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1pSki039XVXT5uA7J5seNyT9s3_U446ah?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVcwMXZINF9LUHl1U1hVM3hoczkzem5rQWs3RnU0NHlEP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVZvdEowT1lJeTV6WGp5d0ZuZnFpM2tLbXdJakZVNzVDP3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVprWFhlZGJwMkVyaWZrSmZPWnpXV3FFR295UFZJZ21YP3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTAxSUUtM25TWGozektobm94MkdZMnlZak1sTUl6WU1VP3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMW9xNXdQNEVwaTNlRUx2LVhyc0t1d3VhQTN3QWJ3TldJP3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXBTa2kwMzlYVlhUNXVBN0o1c2VOeVQ5czNfVTQ0NmFoP3VzcD1kcml2ZV9saW5r"
         },
         ELECTRICAL: {
-          syllabus: "https://drive.google.com/drive/folders/1-GzguKBkipRUtyHxJQxoRQgLQrX4ghdw?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/1Lu65EWdvkyddN4S8pbEvPv3W5NBhDR0v?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/1Ayf1xc1HBHG2YTKKpsrCKb_x6lbv23FS?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/1RGOsfk6spjCYHChIDW6khNkl6U4waHAE?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/1HxT_jH-ruy0Ot0EtaaSfHJ1N1Pkjv1va?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1XNsPpITTRAknDoL0-3CuU1j3Sq2aQRCB?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMS1Hemd1S0JraXBSVXR5SHhKUXhvUlFnTFFyWDRnaGR3P3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUx1NjVFV2R2a3lkZE40UzhwYkV2UHYzVzVOQmhEUjB2P3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUF5ZjF4YzFIQkhHMllUS0twc3JDS2JfeDZsYnYyM0ZTP3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVJHT3NmazZzcGpDWUhDaElEVzZraE5rbDZVNHdhSEFFP3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUh4VF9qSC1ydXkwT3QwRXRhYVNmSEoxTjFQa2p2MXZhP3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVhOc1BwSVRUUkFrbkRvTDAtM0N1VTFqM1NxMmFRUkNCP3VzcD1kcml2ZV9saW5r"
         },
         ECE: {
-          syllabus: "https://drive.google.com/drive/folders/1_J_ZK_rFLgT2EzaaxJALCddSwZp54yMr?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/1Dskxs5PBjiOoJZbIvw8CQKhLCHN-XrxG?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/1msWr1DCybmxlNU8P0pPdWtPomRAyXVcD?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/1klBO8uemS5dO_bx-qX_rL8S4xIRO9_tG?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/1fbrivNlMdCL4woukxfD0PBsFWPaoUn5c?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1V6wYxMhUZklMDWaWocDrPJSVItxW6cZ9?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMV9KX1pLX3JGTGdUMkV6YWF4SkFMQ2RkU3dacDU0eU1yP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMURza3hzNVBCamlPb0paYkl2dzhDUUtoTENITi1YcnhHP3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMW1zV3IxREN5Ym14bE5VOFAwcFBkV3RQb21SQXlYVmNEP3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWtsQk84dWVtUzVkT19ieC1xWF9yTDhTNHhJUk85X3RHP3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWZicml2TmxNZENMNHdvdWt4ZkQwUEJzRldQYW9VbjVjP3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVY2d1l4TWhVWmtsTURXYVdvY0RyUEpTVkl0eFc2Y1o5P3VzcD1kcml2ZV9saW5r"
         },
         MECHANICAL: {
-          syllabus: "https://drive.google.com/drive/folders/133cVhFxBdY77ehfCys9QZJy-nR4ycdLi?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/1BPZT0xzXPKyJMQEDhVgM3wKZcW_A6p57?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/15tgtMNBqlCBQ8Xoee6CeduT05yc84T4m?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/1aYMNnQfzEuMDkJQhMwI2FnqHUdcoV-QU?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/1vf-8-o-59CpJ_ZKYjo6HA7rn59QyZLmU?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1fXO4t0ynl4m6cB8BCAl1jWyfiV806Bqa?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTMzY1ZoRnhCZFk3N2VoZkN5czlRWkp5LW5SNHljZExpP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUJQWlQweHpYUEt5Sk1RRURoVmdNM3dLWmNXX0E2cDU3P3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTV0Z3RNTkJxbENCUThYb2VlNkNlZHVUMDV5Yzg0VDRtP3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWFZTU5uUWZ6RXVNRGtKUWhNd0kyRm5xSFVkY29WLVFVP3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXZmLTgtby01OUNwSl9aS1lqbzZIQTdybjU5UXlaTG1VP3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWZYTzR0MHlubDRtNmNCOEJDQWwxald5ZmlWODA2QnFhP3VzcD1kcml2ZV9saW5r"
         }
         
       },
       // Add more semesters and branches as needed
       4: {
         CIVIL: {
-          syllabus: "https://drive.google.com/drive/folders/1ediS8y3E1EGzyhYZuFGOKbsaUtUx3SI0?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/1l9vECDv-AZ2syLXQTlShOBG4ytcP3OTv?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/1hQb0pIUjWM8Z5F9My0rjkYZzWtqDxBhR?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/1AgiymJQS7o7ceIL06R3FS1vbVtOHhr74?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/1KpV_jJMr0-STkozPOy39uxrCeBIm1kwO?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1k7Hbuq3FYY-0dBCEC-z-uqeFl7XhTrHz?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWVkaVM4eTNFMUVHenloWVp1RkdPS2JzYVV0VXgzU0kwP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWw5dkVDRHYtQVoyc3lMWFFUbFNoT0JHNHl0Y1AzT1R2P3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWhRYjBwSVVqV004WjVGOU15MHJqa1laeld0cUR4QmhSP3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUFnaXltSlFTN283Y2VJTDA2UjNGUzF2YlZ0T0hocjc0P3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUtwVl9qSk1yMC1TVGtvelBPeTM5dXhyQ2VCSW0xa3dPP3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWs3SGJ1cTNGWVktMGRCQ0VDLXotdXFlRmw3WGhUckh6P3VzcD1kcml2ZV9saW5r"
         },
         CSE: {
-          syllabus: "https://drive.google.com/drive/folders/19sXQlhUfC3ID4_oCY0aJYBOOnnzz2Gas?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/11YmPnel_d1qpyyCJVEGJwthlR0Al95Gj?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/1h-4QK41Hb3rvX-MniVl9w1TjN9AEl39T?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/1VS-ei0BcW6oDBQTfFoBdFwpbrLVOxB2-?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/1YsiOt_7kFp8Xdkmomn4P50gzmaWRZ_nT?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1DwH12IFPHW-jIb5T1oUTBcN2kN_Rjr7q?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTlzWFFsaFVmQzNJRDRfb0NZMGFKWUJPT25uenoyR2FzP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTFZbVBuZWxfZDFxcHl5Q0pWRUdKd3RobFIwQWw5NUdqP3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWgtNFFLNDFIYjNydlgtTW5pVmw5dzFUak45QUVsMzlUP3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVZTLWVpMEJjVzZvREJRVGZGb0JkRndwYnJMVk94QjItP3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVlzaU90XzdrRnA4WGRrbW9tbjRQNTBnem1hV1JaX25UP3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUR3SDEySUZQSFctakliNVQxb1VUQmNOMmtOX1JqcjdxP3VzcD1kcml2ZV9saW5r"
         },
         ELECTRICAL: {
-          syllabus: "https://drive.google.com/drive/folders/1nm4UQNBUyJ8yD0ujYJCDD9TSjqvK2EBn?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/1HVwnWr0TtDDHLyXCNcZWESvZwmdfzT_Z?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/1-BhGNa8hqjzZIBTXEdFzLP29MNTirnP4?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/1mTetANEFmoVd24jM9elaiPMufaif3xJ3?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/12qGKIZR6_fV-vXcd33xOtapt46bCBgAL?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1s3rOwEZdkb9WO-25kJziTRLFf-mdEzWE?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMW5tNFVRTkJVeUo4eUQwdWpZSkNERDlUU2pxdksyRUJuP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUhWd25XcjBUdERESEx5WENOY1pXRVN2WndtZGZ6VF9aP3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMS1CaEdOYThocWp6WklCVFhFZEZ6TFAyOU1OVGlyblA0P3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMW1UZXRBTkVGbW9WZDI0ak05ZWxhaVBNdWZhaWYzeEozP3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTJxR0tJWlI2X2ZWLXZYY2QzM3hPdGFwdDQ2YkNCZ0FMP3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXMzck93RVpka2I5V08tMjVrSnppVFJMRmYtbWRFeldFP3VzcD1kcml2ZV9saW5r"
         },
         ECE: {
-          syllabus: "https://drive.google.com/drive/folders/1e-C-cuwKJSV2IqOzfXBBNTxkL_mXPdh5?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/1YqTBUV2vXa3uSxrFrplGyWPfCZYKcGbc?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/1Ne9zlYFbdZfgQMvGNMF1Yz9AiNmmgeAZ?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/1HSNIvNCf6KOLzbaUSsvSxAZklIX18XbB?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/1UWH8WZioKuIQAWzZSin67LGQjohGa0Ag?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1BvBiL2j69q6AxGZWMcYDUTz1c6W4S0aU?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWUtQy1jdXdLSlNWMklxT3pmWEJCTlR4a0xfbVhQZGg1P3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVlxVEJVVjJ2WGEzdVN4ckZycGxHeVdQZkNaWUtjR2JjP3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMU5lOXpsWUZiZFpmZ1FNdkdOTUYxWXo5QWlObW1nZUFaP3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUhTTkl2TkNmNktPTHpiYVVTc3ZTeEFaa2xJWDE4WGJCP3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVVXSDhXWmlvS3VJUUFXelpTaW42N0xHUWpvaEdhMEFnP3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUJ2QmlMMmo2OXE2QXhHWldNY1lEVVR6MWM2VzRTMGFVP3VzcD1kcml2ZV9saW5r"
         },
         MECHANICAL: {
-          syllabus: "https://drive.google.com/drive/folders/19oe3urb7cBL0GL4zGYC3e9cYpKjoAocQ?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/1TenGfJGTidab8I1s2Qe45iNcQ9taWheV?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/1AMBEOGcDPp1YqCpcEQi8ANfVHKif7bnU?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/1JVXgmCrg1K9qDxhvDUoyqV1JBsyEGYBI?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/1Hc8bo5PjWrWRRBSQpGvlpUY7dzkHmYsd?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1wRABMBQhl5f-kV-U7OZWxm8sa1h4bZL9?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTlvZTN1cmI3Y0JMMEdMNHpHWUMzZTljWXBLam9Bb2NRP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVRlbkdmSkdUaWRhYjhJMXMyUWU0NWlOY1E5dGFXaGVWP3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUFNQkVPR2NEUHAxWXFDcGNFUWk4QU5mVkhLaWY3Ym5VP3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUpWWGdtQ3JnMUs5cUR4aHZEVW95cVYxSkJzeUVHWUJJP3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUhjOGJvNVBqV3JXUlJCU1FwR3ZscFVZN2R6a0htWXNkP3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXdSQUJNQlFobDVmLWtWLVU3T1pXeG04c2ExaDRiWkw5P3VzcD1kcml2ZV9saW5r"
         }
       },
       // Add more semesters and branches as needed
       5: {
         CIVIL: {
-          syllabus: "https://drive.google.com/drive/folders/17JwArpfc4AwfYceqBZTd-EL0c-6vMe2A?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/1Cl50J-4J818jmBsfV1Vx30Jqf6hE79GD?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/13dlYdlRsdX-QwefIhj7yLJbcW4H3vCox?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/1UuqnwxKZJjrzcPzcAp0AHtABSpieKFLH?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/1byEXz-sw0txTtCi7OPZqd-w5YoV4Rx6L?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/16X9zFxtPU-dCMAMHGVRnZfsJ2ZABrRsL?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTdKd0FycGZjNEF3ZlljZXFCWlRkLUVMMGMtNnZNZTJBP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUNsNTBKLTRKODE4am1Cc2ZWMVZ4MzBKcWY2aEU3OUdEP3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTNkbFlkbFJzZFgtUXdlZkloajd5TEpiY1c0SDN2Q294P3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVV1cW53eEtaSmpyemNQemNBcDBBSHRBQlNwaWVLRkxIP3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWJ5RVh6LXN3MHR4VHRDaTdPUFpxZC13NVlvVjRSeDZMP3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTZYOXpGeHRQVS1kQ01BTUhHVlJuWmZzSjJaQUJyUnNMP3VzcD1kcml2ZV9saW5r"
         },
         CSE: {
-          syllabus: "https://drive.google.com/drive/folders/1m4isKq_lZSxI0WGU9imX0spTbOHARLAB?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/1jRcUjcDzYjOfJ3bBeoFi6x9qq11TDFAJ?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/1aKV1xmCBYitt08L0i2R7J1VjYTvEY57Y?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/11E1AdeoSZqMYmjZoyI6-xBEZt0v7zRMu?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/1RDDpLCoVl7VgJuBIQU-dnQnqgYizTnqj?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1YkGYLNg2Haq51U-jSzbr00wjupey7aEY?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMW00aXNLcV9sWlN4STBXR1U5aW1YMHNwVGJPSEFSTEFCP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWpSY1VqY0R6WWpPZkozYkJlb0ZpNng5cXExMVRERkFKP3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWFLVjF4bUNCWWl0dDA4TDBpMlI3SjFWallUdkVZNTdZP3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTFFMUFkZW9TWnFNWW1qWm95STYteEJFWnQwdjd6Uk11P3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVJERHBMQ29WbDdWZ0p1QklRVS1kblFucWdZaXpUbnFqP3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVlrR1lMTmcySGFxNTFVLWpTemJyMDB3anVwZXk3YUVZP3VzcD1kcml2ZV9saW5r"
         },
         ELECTRICAL: {
-          syllabus: "https://drive.google.com/drive/folders/1VVD2Kz1Xh4phuE9Chk863q9rRUsfQUP_?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/1VQWgdDfbwTtM0F1JjHLz1j1KrmVzUXbR?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/1yiovtzyUOxS_Jw3w5CosHqeb9e4VJo2C?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/1RT_BupteLF3SnbmPElUdwcRsVC-7bZSS?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/1rgJ7ryC5P4t_uIqUTQ4SB2z6swWXmlPh?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1HMy_mqOB-ALS99BNP8MLUUrpgKVcNr-l?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVZWRDJLejFYaDRwaHVFOUNoazg2M3E5clJVc2ZRVVBfP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVZRV2dkRGZid1R0TTBGMUpqSEx6MWoxS3JtVnpVWGJSP3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXlpb3Z0enlVT3hTX0p3M3c1Q29zSHFlYjllNFZKbzJDP3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVJUX0J1cHRlTEYzU25ibVBFbFVkd2NSc1ZDLTdiWlNTP3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXJnSjdyeUM1UDR0X3VJcVVUUTRTQjJ6NnN3V1htbFBoP3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUhNeV9tcU9CLUFMUzk5Qk5QOE1MVVVycGdLVmNOci1sP3VzcD1kcml2ZV9saW5r"
         },
         ECE: {
-          syllabus: "https://drive.google.com/drive/folders/17pYguMUDesLAng4iuiLfsVMoA3_n5zKv?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/1UilgJU6cE5qL5Jt5QJV3heVkwxnRMznV?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/1Hwti9d8MpSjtEwjHwUJgh7jp2HvujTo0?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/1OdW3vqsv943xmK7kbEDRr0kY2MV6IM49?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/1SPkdS-UUhx7vFN-B6qyBJYuT4oq4mw-B?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1o-zSVOoGFYmO2z7TvtqauYtgLbvAEj5w?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTdwWWd1TVVEZXNMQW5nNGl1aUxmc1ZNb0EzX241ekt2P3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVVpbGdKVTZjRTVxTDVKdDVRSlYzaGVWa3d4blJNem5WP3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUh3dGk5ZDhNcFNqdEV3akh3VUpnaDdqcDJIdnVqVG8wP3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMU9kVzN2cXN2OTQzeG1LN2tiRURScjBrWTJNVjZJTTQ5P3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVNQa2RTLVVVaHg3dkZOLUI2cXlCSll1VDRvcTRtdy1CP3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMW8telNWT29HRlltTzJ6N1R2dHFhdVl0Z0xidkFFajV3P3VzcD1kcml2ZV9saW5r"
         },
         MECHANICAL: {
-          syllabus: "https://drive.google.com/drive/folders/1rPSUEOpMNbhmSZK89L9dgZ3jAeo_h7_M?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/1ZC3APZCaRPIQ2tZM6cYy8TiqG8-o5DqK?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/14O58ZdVEx4Ypiz8WOuaorrUWa4bueUUA?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/1Oa-ZllnlPwIC0E4wlybYO2U7cqvOFYuO?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/1A1B6aCRBAuoP2ArSDz9q_OjyU3e5HNVB?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1JBgmgLdUhiV7wEJLqcBuKc1nGm1vJIPz?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXJQU1VFT3BNTmJobVNaSzg5TDlkZ1ozakFlb19oN19NP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVpDM0FQWkNhUlBJUTJ0Wk02Y1l5OFRpcUc4LW81RHFLP3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTRPNThaZFZFeDRZcGl6OFdPdWFvcnJVV2E0YnVlVVVBP3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMU9hLVpsbG5sUHdJQzBFNHdseWJZTzJVN2Nxdk9GWXVPP3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUExQjZhQ1JCQXVvUDJBclNEejlxX09qeVUzZTVITlZCP3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUpCZ21nTGRVaGlWN3dFSkxxY0J1S2MxbkdtMXZKSVB6P3VzcD1kcml2ZV9saW5r"
         }
         
       },
       // Add more semesters and branches as needed
       6: {
           CIVIL: {
-            syllabus: "https://drive.google.com/drive/folders/1IFomFnHkrJQp_eRnsNi87ugf6JXDz2e7?usp=drive_link",
-            books: "https://drive.google.com/drive/folders/1KvZYeVM2ATU33jNZJfR056UiI73vjUs7?usp=drive_link",
-            notes: "https://drive.google.com/drive/folders/1Xr3tHRWBWtcYtdz-DaykWyScXzc9_oDP?usp=drive_link",
-            questions: "https://drive.google.com/drive/folders/1sfSyMIiYZ0OLDRfq-teMIGvppQ8geXn3?usp=drive_link",
-            videos: "https://drive.google.com/drive/folders/1tu-bXBi-ueJWtJU9Fs6L3YvSVtHHN_rZ?usp=drive_link",
-            papers: "https://drive.google.com/drive/folders/1CeZHKGRIChQs2Jubl_jetXy3BMH2C12p?usp=drive_link"
+            syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUlGb21GbkhrckpRcF9lUm5zTmk4N3VnZjZKWER6MmU3P3VzcD1kcml2ZV9saW5r",
+            books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUt2WlllVk0yQVRVMzNqTlpKZlIwNTZVaUk3M3ZqVXM3P3VzcD1kcml2ZV9saW5r",
+            notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVhyM3RIUldCV3RjWXRkei1EYXlrV3lTY1h6Yzlfb0RQP3VzcD1kcml2ZV9saW5r",
+            questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXNmU3lNSWlZWjBPTERSZnEtdGVNSUd2cHBROGdlWG4zP3VzcD1kcml2ZV9saW5r",
+            videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXR1LWJYQmktdWVKV3RKVTlGczZMM1l2U1Z0SEhOX3JaP3VzcD1kcml2ZV9saW5r",
+            papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUNlWkhLR1JJQ2hRczJKdWJsX2pldFh5M0JNSDJDMTJwP3VzcD1kcml2ZV9saW5r"
           },
           CSE: {
-            syllabus: "https://drive.google.com/drive/folders/11tHyhe293pftuCaMDpAcaFRCmguDwE9Q?usp=drive_link",
-            books: "https://drive.google.com/drive/folders/1p70ujpchFbwroKQJM2n8JvN24-Fb-omh?usp=drive_link",
-            notes: "https://drive.google.com/drive/folders/1fWxf-gHX4jynjBs4_4WDneXLNmm3Rvu4?usp=drive_link",
-            questions: "https://drive.google.com/drive/folders/1s-S5c4K1-ykieeR0hF5bSylEXtX3xkVI?usp=drive_link",
-            videos: "https://drive.google.com/drive/folders/1arQ_8C48yOchGcntj6ninu3t5I-PQsym?usp=drive_link",
-            papers: "https://drive.google.com/drive/folders/1vSqprgX70ipQjB4Xmn-YaJpn5V5UVVOj?usp=drive_link"
+            syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTF0SHloZTI5M3BmdHVDYU1EcEFjYUZSQ21ndUR3RTlRP3VzcD1kcml2ZV9saW5r",
+            books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXA3MHVqcGNoRmJ3cm9LUUpNMm44SnZOMjQtRmItb21oP3VzcD1kcml2ZV9saW5r",
+            notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWZXeGYtZ0hYNGp5bmpCczRfNFdEbmVYTE5tbTNSdnU0P3VzcD1kcml2ZV9saW5r",
+            questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXMtUzVjNEsxLXlraWVlUjBoRjViU3lsRVh0WDN4a1ZJP3VzcD1kcml2ZV9saW5r",
+            videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWFyUV84QzQ4eU9jaEdjbnRqNm5pbnUzdDVJLVBRc3ltP3VzcD1kcml2ZV9saW5r",
+            papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXZTcXByZ1g3MGlwUWpCNFhtbi1ZYUpwbjVWNVVWVk9qP3VzcD1kcml2ZV9saW5r"
           },
           ELECTRICAL: {
-            syllabus: "https://drive.google.com/drive/folders/1IgYEG06MMpAoDcL68mAWmG_PuD_tHxVo?usp=drive_link",
-            books: "https://drive.google.com/drive/folders/1fddqbx-6wTQoOEKcwa12mb-jYa8uTih3?usp=drive_link",
-            notes: "https://drive.google.com/drive/folders/1SUgH-wRgBh4Lkgf07jKeVZQPXsZxCEJ2?usp=drive_link",
-            questions: "https://drive.google.com/drive/folders/1065PmF0VyqEnMH7u-QT9MpZsfmwvGV0U?usp=drive_link",
-            videos: "https://drive.google.com/drive/folders/1u25_QCWytp-ibiuGl_YqbW4tL09TCYbu?usp=drive_link",
-            papers: "https://drive.google.com/drive/folders/1c29FwcEvwWFUN_JHPJqmC9eGqy047bZC?usp=drive_link"
+            syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUlnWUVHMDZNTXBBb0RjTDY4bUFXbUdfUHVEX3RIeFZvP3VzcD1kcml2ZV9saW5r",
+            books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWZkZHFieC02d1RRb09FS2N3YTEybWItallhOHVUaWgzP3VzcD1kcml2ZV9saW5r",
+            notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVNVZ0gtd1JnQmg0TGtnZjA3aktlVlpRUFhzWnhDRUoyP3VzcD1kcml2ZV9saW5r",
+            questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTA2NVBtRjBWeXFFbk1IN3UtUVQ5TXBac2Ztd3ZHVjBVP3VzcD1kcml2ZV9saW5r",
+            videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXUyNV9RQ1d5dHAtaWJpdUdsX1lxYlc0dEwwOVRDWWJ1P3VzcD1kcml2ZV9saW5r",
+            papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWMyOUZ3Y0V2d1dGVU5fSkhQSnFtQzllR3F5MDQ3YlpDP3VzcD1kcml2ZV9saW5r"
           },
           ECE: {
-            syllabus: "https://drive.google.com/drive/folders/1VGsQMxMUtHVYO90-9U8Kt6oqvzD6iltf?usp=drive_link",
-            books: "https://drive.google.com/drive/folders/1DJuwLSloiUCAwhCIPRM4jZFMCIKc3gp6?usp=drive_link",
-            notes: "https://drive.google.com/drive/folders/1qWMfdSY2j4dfBAQ14owmaGXk8Rs5tjyg?usp=drive_link",
-            questions: "https://drive.google.com/drive/folders/1sY1m_Qh-5h5GT4rpLgp53yivXKbb0Iry?usp=drive_link",
-            videos: "https://drive.google.com/drive/folders/1ObdsatjR-kh-ZtApACYZADoRh7ySkDfL?usp=drive_link",
-            papers: "https://drive.google.com/drive/folders/1IcbjN5aoYKul6azr2p_KfiEtUoF_YcKm?usp=drive_link"
+            syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVZHc1FNeE1VdEhWWU85MC05VThLdDZvcXZ6RDZpbHRmP3VzcD1kcml2ZV9saW5r",
+            books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMURKdXdMU2xvaVVDQXdoQ0lQUk00alpGTUNJS2MzZ3A2P3VzcD1kcml2ZV9saW5r",
+            notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXFXTWZkU1kyajRkZkJBUTE0b3dtYUdYazhSczV0anlnP3VzcD1kcml2ZV9saW5r",
+            questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXNZMW1fUWgtNWg1R1Q0cnBMZ3A1M3lpdlhLYmIwSXJ5P3VzcD1kcml2ZV9saW5r",
+            videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMU9iZHNhdGpSLWtoLVp0QXBBQ1laQURvUmg3eVNrRGZMP3VzcD1kcml2ZV9saW5r",
+            papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUljYmpONWFvWUt1bDZhenIycF9LZmlFdFVvRl9ZY0ttP3VzcD1kcml2ZV9saW5r"
           },
           MECHANICAL: {
-            syllabus: "https://drive.google.com/drive/folders/11qWXab-GZAOfvALTKwSUCdgmfjk2RdIo?usp=drive_link",
-            books: "https://drive.google.com/drive/folders/1Y9G9VjYWXOIucteVtmuX2wRHQEnKDdly?usp=drive_link",
-            notes: "https://drive.google.com/drive/folders/1ja6nMtYz5w4tQwQ18FJNdbaionOiNgaZ?usp=drive_link",
-            questions: "https://drive.google.com/drive/folders/1Vx53OGFwWGSf9b2ccB-3Yl9lbuQXDova?usp=drive_link",
-            videos: "https://drive.google.com/drive/folders/1BC3FB3JoHAJdA39DrQ0nVACUFeqbY-bQ?usp=drive_link",
-            papers: "https://drive.google.com/drive/folders/1aQKGwequ3kS4uG9UPEimMXKoCJCOqcNV?usp=drive_link"
+            syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTFxV1hhYi1HWkFPZnZBTFRLd1NVQ2RnbWZqazJSZElvP3VzcD1kcml2ZV9saW5r",
+            books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVk5RzlWallXWE9JdWN0ZVZ0bXVYMndSSFFFbktEZGx5P3VzcD1kcml2ZV9saW5r",
+            notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWphNm5NdFl6NXc0dFF3UTE4RkpOZGJhaW9uT2lOZ2FaP3VzcD1kcml2ZV9saW5r",
+            questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVZ4NTNPR0Z3V0dTZjliMmNjQi0zWWw5bGJ1UVhEb3ZhP3VzcD1kcml2ZV9saW5r",
+            videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUJDM0ZCM0pvSEFKZEEzOURyUTBuVkFDVUZlcWJZLWJRP3VzcD1kcml2ZV9saW5r",
+            papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWFRS0d3ZXF1M2tTNHVHOVVQRWltTVhLb0NKQ09xY05WP3VzcD1kcml2ZV9saW5r"
           }
           
         },
       // Add more semesters and branches as needed
       7: {
         CIVIL: {
-          syllabus: "https://drive.google.com/drive/folders/1XZ20Wab4-uKfmKkCLl53meyPPvXX_Q0c?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/1BcWKFP7BJah40GFinwU98Lf21JyXAqNs?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/128wgv47jd353m31GTq-qPdAkNtjsI5b_?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/1NtKqbGdp36VIuttBD0PHSSSSRTCWGxL2?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/1H-MqG7RcVl1sW-12mag0An4jM_4sRXN1?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1DjnvHkDsK1n1mHHwK80FhE_vuNG8wQLe?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVhaMjBXYWI0LXVLZm1La0NMbDUzbWV5UFB2WFhfUTBjP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUJjV0tGUDdCSmFoNDBHRmlud1U5OExmMjFKeVhBcU5zP3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTI4d2d2NDdqZDM1M20zMUdUcS1xUGRBa050anNJNWJfP3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMU50S3FiR2RwMzZWSXV0dEJEMFBIU1NTU1JUQ1dHeEwyP3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUgtTXFHN1JjVmwxc1ctMTJtYWcwQW40ak1fNHNSWE4xP3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMURqbnZIa0RzSzFuMW1ISHdLODBGaEVfdnVORzh3UUxlP3VzcD1kcml2ZV9saW5r"
         },
         CSE: {
-          syllabus: "https://drive.google.com/drive/folders/1XPa04rxyJ4xSxplaxfjEbtqQkWkyl8Mb?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/1mbrv7y_7U_JcP-rvPSdFRsVuFZ9akAcE?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/1pkJsl3rtke3_IHbzPQWzx7lIesM2cecW?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/1ExgjknKUqHoZCiUpbr68Yh49Aepa2Kp0?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/1zKK9QE6F7--kza4zulmP1NbCTK-ZS4M3?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1NaN_plKcQ-9LwgVijDCWc5Fjt7fP8gGL?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVhQYTA0cnh5SjR4U3hwbGF4ZmpFYnRxUWtXa3lsOE1iP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMW1icnY3eV83VV9KY1AtcnZQU2RGUnNWdUZaOWFrQWNFP3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXBrSnNsM3J0a2UzX0lIYnpQUVd6eDdsSWVzTTJjZWNXP3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUV4Z2prbktVcUhvWkNpVXBicjY4WWg0OUFlcGEyS3AwP3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXpLSzlRRTZGNy0ta3phNHp1bG1QMU5iQ1RLLVpTNE0zP3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMU5hTl9wbEtjUS05THdnVmlqRENXYzVGanQ3ZlA4Z0dMP3VzcD1kcml2ZV9saW5r"
         },
         ELECTRICAL: {
-          syllabus: "https://drive.google.com/drive/folders/1tupGUNJSfqVjSwmXBQMtKZUAjKRqZzi8?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/1lrqdqgYxp4uklAXeJ-ZzJOq2rX8aEBtL?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/1nR7VGkUdAAcOaRbGyRX9H3Qal1u0Jo4J?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/1NghsqdqprHDMGo53xF9wS_eh3e4IO3bf?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/1IcvDCDDIFcsDioy9COFY9r6Pp0FVdf6X?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1RMUcb2ssPX17zNlIVHldYvd5QXqWgnyd?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXR1cEdVTkpTZnFWalN3bVhCUU10S1pVQWpLUnFaemk4P3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWxycWRxZ1l4cDR1a2xBWGVKLVp6Sk9xMnJYOGFFQnRMP3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMW5SN1ZHa1VkQUFjT2FSYkd5Ulg5SDNRYWwxdTBKbzRKP3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMU5naHNxZHFwckhETUdvNTN4Rjl3U19laDNlNElPM2JmP3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUljdkRDRERJRmNzRGlveTlDT0ZZOXI2UHAwRlZkZjZYP3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVJNVWNiMnNzUFgxN3pObElWSGxkWXZkNVFYcVdnbnlkP3VzcD1kcml2ZV9saW5r"
         },
         ECE: {
-          syllabus: "https://drive.google.com/drive/folders/1sKhfkl3lsgeSNYKy0iAmUCCaIc6tiP1S?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/17MgC4yJJci7YKVi-IjTJ4QTwikjj_DvO?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/1lCi8K16ivxbv3i2vFIl3mjf17K7GmR2V?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/14L93qFrJ3y1w-B_Mkxeq0ScJ0TJWFSO3?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/1EtUe_N7DibuyVzAvoaqXKaYL5cbR9S5m?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1rxe_LYbaBwZ1Wb63d1QHg7Cgqo9TTMRW?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXNLaGZrbDNsc2dlU05ZS3kwaUFtVUNDYUljNnRpUDFTP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTdNZ0M0eUpKY2k3WUtWaS1JalRKNFFUd2lrampfRHZPP3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWxDaThLMTZpdnhidjNpMnZGSWwzbWpmMTdLN0dtUjJWP3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTRMOTNxRnJKM3kxdy1CX01reGVxMFNjSjBUSldGU08zP3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUV0VWVfTjdEaWJ1eVZ6QXZvYXFYS2FZTDVjYlI5UzVtP3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXJ4ZV9MWWJhQndaMVdiNjNkMVFIZzdDZ3FvOVRUTVJXP3VzcD1kcml2ZV9saW5r"
         },
         MECHANICAL: {
-          syllabus: "https://drive.google.com/drive/folders/1q7JsPFa6T7vm_3PdvZFS9Neffe2-Q4uo?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/1uQTuwCtfpezJz8V0d5xj7sBpaIp3qDTJ?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/1ZgUzAVD8ESVEhLnJoHw-L3AKZ_VD_Zxy?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/1I6-1dbKzMrC7iaARdBsRENOpsIvXQV8R?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/1rcE33tWF0VV9zeunncCDuunU6FCEGAm2?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1wVdGMN_n_w-ufkf6dq4xm9D9x817QjFL?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXE3SnNQRmE2VDd2bV8zUGR2WkZTOU5lZmZlMi1RNHVvP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXVRVHV3Q3RmcGV6Sno4VjBkNXhqN3NCcGFJcDNxRFRKP3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVpnVXpBVkQ4RVNWRWhMbkpvSHctTDNBS1pfVkRfWnh5P3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUk2LTFkYkt6TXJDN2lhQVJkQnNSRU5PcHNJdlhRVjhSP3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXJjRTMzdFdGMFZWOXpldW5uY0NEdXVuVTZGQ0VHQW0yP3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXdWZEdNTl9uX3ctdWZrZjZkcTR4bTlEOXg4MTdRakZMP3VzcD1kcml2ZV9saW5r"
         }
         
       },
       // Add more semesters and branches as needed
       8: {
         CIVIL: {
-          syllabus: "https://drive.google.com/drive/folders/1PHxkfx9mGHWxpcQuFX51vFFFMMHD4aoJ?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/1f0-8TJHSE40y1XZcBnK8TXngYx6NHOzs?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/13LO_zGPXRIGicA9Z_k77joJguEkAIn6l?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/1DyWj3WIm0CMcbLlXeMCNKdxx4fyjzeYA?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/1nIGknK3K-_2HTLp2QPElJGGENeKgb0tN?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1DAl1SOaIuUjm9j3JbEpNt0TW0hywY-kf?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVBIeGtmeDltR0hXeHBjUXVGWDUxdkZGRk1NSEQ0YW9KP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWYwLThUSkhTRTQweTFYWmNCbks4VFhuZ1l4Nk5IT3pzP3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTNMT196R1BYUklHaWNBOVpfazc3am9KZ3VFa0FJbjZsP3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUR5V2ozV0ltMENNY2JMbFhlTUNOS2R4eDRmeWp6ZVlBP3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMW5JR2tuSzNLLV8ySFRMcDJRUEVsSkdHRU5lS2diMHROP3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMURBbDFTT2FJdVVqbTlqM0piRXBOdDBUVzBoeXdZLWtmP3VzcD1kcml2ZV9saW5r"
         },
         CSE: {
-          syllabus: "https://drive.google.com/drive/folders/1oJCevMO2A02il1AFEVg_ErnK-BEkePOO?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/1hv3_nqv6phWcPmBFCMfs9xmDiwcY5Jai?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/1Ofx3KkRuMHcGGOV45Xn8mDSRib3V_dwM?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/1AdkzKIVUVOoa3K567jHfq3svRQCY8LID?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/16v9JqGXggG4NcnJypt4SaRm8ZoarrkHC?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1i6oC9_lh66QXpgmaoc4KkcdUtjMPTrTz?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMW9KQ2V2TU8yQTAyaWwxQUZFVmdfRXJuSy1CRWtlUE9PP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWh2M19ucXY2cGhXY1BtQkZDTWZzOXhtRGl3Y1k1SmFpP3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMU9meDNLa1J1TUhjR0dPVjQ1WG44bURTUmliM1ZfZHdNP3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUFka3pLSVZVVk9vYTNLNTY3akhmcTNzdlJRQ1k4TElEP3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTZ2OUpxR1hnZ0c0TmNuSnlwdDRTYVJtOFpvYXJya0hDP3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWk2b0M5X2xoNjZRWHBnbWFvYzRLa2NkVXRqTVBUclR6P3VzcD1kcml2ZV9saW5r"
         },
         ELECTRICAL: {
-          syllabus: "https://drive.google.com/drive/folders/1WuYFl8Kv4xw7IXSaenHXBAgdSJOKFgyP?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/17eI6e_iirICHwezeudhbcyLZtjjUj8yM?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/1HbPoC_s8q919BheUShk2dmPe_7JfV3cj?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/1Ju_gc30SSekbT5LrFXSZtQHMBmyIyDjy?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/1GXEFF7cdl7QOdfqreukieSXjt74ZjFyw?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1Pbm7fmbD167lMJd2FB3_c1W6cSWjg_w5?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVd1WUZsOEt2NHh3N0lYU2FlbkhYQkFnZFNKT0tGZ3lQP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTdlSTZlX2lpcklDSHdlemV1ZGhiY3lMWnRqalVqOHlNP3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUhiUG9DX3M4cTkxOUJoZVVTaGsyZG1QZV83SmZWM2NqP3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUp1X2djMzBTU2VrYlQ1THJGWFNadFFITUJteUl5RGp5P3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUdYRUZGN2NkbDdRT2RmcXJldWtpZVNYanQ3NFpqRnl3P3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVBibTdmbWJEMTY3bE1KZDJGQjNfYzFXNmNTV2pnX3c1P3VzcD1kcml2ZV9saW5r"
         },
         ECE: {
-          syllabus: "https://drive.google.com/drive/folders/15llYCvk9Uie4iCXA4MvEWmPFiZM9TAy8?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/1yFIK25yCCQE6oby3Ev09Ll3Lq3c5T8aP?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/19JGiEIF9Ca4W4mm-1Clk6Kuq1pZgmmJJ?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/1FzOYuRjEd02iPh0zBiMxFj5kcAOx5Y22?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/1rLxnyvKypvPhi6Qu2NmoGCUpckCzeDDs?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1JqWOxGiYbf4p5ppOGRS2Ox2eKcihmtEF?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTVsbFlDdms5VWllNGlDWEE0TXZFV21QRmlaTTlUQXk4P3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXlGSUsyNXlDQ1FFNm9ieTNFdjA5TGwzTHEzYzVUOGFQP3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTlKR2lFSUY5Q2E0VzRtbS0xQ2xrNkt1cTFwWmdtbUpKP3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUZ6T1l1UmpFZDAyaVBoMHpCaU14Rmo1a2NBT3g1WTIyP3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXJMeG55dkt5cHZQaGk2UXUyTm1vR0NVcGNrQ3plRERzP3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUpxV094R2lZYmY0cDVwcE9HUlMyT3gyZUtjaWhtdEVGP3VzcD1kcml2ZV9saW5r"
         },
         MECHANICAL: {
-          syllabus: "https://drive.google.com/drive/folders/1sbaLZzy0Szr5zEf4LLmFT5C17SkL5hBm?usp=drive_link",
-          books: "https://drive.google.com/drive/folders/1g9UTW68s8HVBSLrJz4iw4EYZHXTJ-BLm?usp=drive_link",
-          notes: "https://drive.google.com/drive/folders/1P4vaO5kMue02e0k2QLqU1VkoBk6TUtC6?usp=drive_link",
-          questions: "https://drive.google.com/drive/folders/1E15I4a22Nusp-XQDai12--jdd43Xvx8C?usp=drive_link",
-          videos: "https://drive.google.com/drive/folders/19wceKuYsNnIHrPWVhxR-X5Ctsc26sq56?usp=drive_link",
-          papers: "https://drive.google.com/drive/folders/1GoXL2lBVpHtEidWC2T-62bDdX2Ao4F1W?usp=drive_link"
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXNiYUxaenkwU3pyNXpFZjRMTG1GVDVDMTdTa0w1aEJtP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWc5VVRXNjhzOEhWQlNMckp6NGl3NEVZWkhYVEotQkxtP3VzcD1kcml2ZV9saW5r",
+          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVA0dmFPNWtNdWUwMmUwazJRTHFVMVZrb0JrNlRVdEM2P3VzcD1kcml2ZV9saW5r",
+          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUUxNUk0YTIyTnVzcC1YUURhaTEyLS1qZGQ0M1h2eDhDP3VzcD1kcml2ZV9saW5r",
+          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTl3Y2VLdVlzTm5JSHJQV1ZoeFItWDVDdHNjMjZzcTU2P3VzcD1kcml2ZV9saW5r",
+          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUdvWEwybEJWcEh0RWlkV0MyVC02MmJEZFgyQW80RjFXP3VzcD1kcml2ZV9saW5r"
         }
         
       }
@@ -293,49 +293,3 @@ export const courseData = {
   // Add other courses like mtech, mba, etc.
 };
 
-
-// dummy
-
-// 3: {
-//   CIVIL: {
-//     syllabus: "https",
-//     books: "https",
-//     notes: "https",
-//     questions: "https",
-//     videos: "https",
-//     papers: "https"
-//   },
-//   CSE: {
-//     syllabus: "https",
-//     books: "https",
-//     notes: "https",
-//     questions: "https",
-//     videos: "https",
-//     papers: "https"
-//   },
-//   ELECTRICAL: {
-//     syllabus: "https",
-//     books: "https",
-//     notes: "https",
-//     questions: "https",
-//     videos: "https",
-//     papers: "https"
-//   },
-//   ECE: {
-//     syllabus: "https",
-//     books: "https",
-//     notes: "https",
-//     questions: "https",
-//     videos: "https",
-//     papers: "https"
-//   },
-//   MECHANICAL: {
-//     syllabus: "https",
-//     books: "https",
-//     notes: "https",
-//     questions: "https",
-//     videos: "https",
-//     papers: "https"
-//   }
-  
-// }

@@ -143,7 +143,7 @@
                     <option value="">Select Semester</option>
                     </select>
                     <select id="branchSelect" class="p-3 rounded border-2 border-green-600 bg-green-50 font-semibold text-green-900 w-full sm:w-1/2 shadow" disabled>
-                    <option value="">Select Branch</option>
+                    <option value="" class="">Select Branch</option>
                     </select>
                 </div>
 
@@ -281,6 +281,7 @@
               branchSelect.disabled = true;
               branchSelect.innerHTML = `<option value="">Select Branch</option>`;
               const links = courseInfo.data[selectedSem]?.common || [];
+              console.log(links);
               displayLinks(links);
             } else {
               branchSelect.disabled = false;
@@ -293,6 +294,7 @@
               });
       
               branchSelect.onchange = () => {
+                console.clear();
                 const selectedBranch = branchSelect.value;
                 const links = courseInfo.data[selectedSem]?.[selectedBranch] || [];
                 displayLinks(links);
@@ -314,11 +316,14 @@
           };
       
           Object.entries(links).forEach(([key, url]) => {
+
+              console.log(atob(url));
             const title = linkTitles[key];
             linkContainer.innerHTML += `
-              <a href="${url}" class="block p-4 rounded-lg bg-white shadow hover:bg-blue-100 transition" target="_blank">
+              <a href="${atob(url)}" class="block p-4 rounded-lg bg-white shadow hover:bg-blue-100 transition" target="_blank">
                 ${title}
               </a>`;
+              
           });
         }
       
@@ -445,6 +450,7 @@ document.addEventListener("DOMContentLoaded", function () {
     if (!selectedCourse || !selectedSemester) {
       branchSelect.innerHTML = `<option value="">Select Branch</option>`;
       branchSelect.disabled = true;
+      console.clear();
       return;
     }
 
@@ -458,6 +464,7 @@ document.addEventListener("DOMContentLoaded", function () {
       const branches = courseData[selectedCourse].branches || [];
       populateDropdown(branchSelect, branches);
       branchSelect.disabled = false;
+      
     }
   });
 
@@ -486,11 +493,14 @@ document.addEventListener("DOMContentLoaded", function () {
       link = courseData[course].data?.[semester]?.common?.[resource] || "";
     } else {
       // For branch-specific semesters, branch is required
+      console.clear();
       const branch = branchSelect.value;
       if (!branch) {
+        
         alert("Please select Branch.");
         return;
       }
+      console.clear();
       link = courseData[course].data?.[semester]?.[branch]?.[resource] || "";
     }
 
