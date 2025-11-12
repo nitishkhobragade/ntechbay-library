@@ -243,29 +243,14 @@
         let currentCourse = "btech";
         loadCourse(currentCourse);
       
-        // courseButtons.forEach(btn => {
-        //   btn.addEventListener("click", () => {
-        //     courseButtons.forEach(b => b.classList.remove("bg-blue-500", "text-white"));
-        //     btn.classList.add("bg-blue-500", "text-white");
-        //     currentCourse = btn.dataset.course;
-        //     loadCourse(currentCourse);
-        //   });
-        // });
-
         courseButtons.forEach(btn => {
-            btn.addEventListener("click", () => {
-              courseButtons.forEach(b => {
-                b.classList.remove("bg-blue-500", "text-white");
-                b.classList.add("bg-gray-300", "text-black");
-              });
-
-              btn.classList.remove("bg-gray-300", "text-black");
-              btn.classList.add("bg-blue-500", "text-white");
-
-              currentCourse = btn.dataset.course;
-              loadCourse(currentCourse);
-            });
+          btn.addEventListener("click", () => {
+            courseButtons.forEach(b => b.classList.remove("bg-blue-500", "text-white"));
+            btn.classList.add("bg-blue-500", "text-white");
+            currentCourse = btn.dataset.course;
+            loadCourse(currentCourse);
           });
+        });
       
         function loadCourse(course) {
           const courseInfo = courseData[course];

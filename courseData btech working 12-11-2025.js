@@ -281,151 +281,15 @@ export const courseData = {
           videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTl3Y2VLdVlzTm5JSHJQV1ZoeFItWDVDdHNjMjZzcTU2P3VzcD1kcml2ZV9saW5r",
           papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUdvWEwybEJWcEh0RWlkV0MyVC02MmJEZFgyQW80RjFXP3VzcD1kcml2ZV9saW5r"
         }
-    
+        
       }
       // Add more semesters and branches as needed
 
       // Add more semesters and branches as needed
-    }
-  },
-  // Add other courses like mtech, mba, etc.
-    polytechnic: {
-    semesters: 6,
-    branches: ["CIVIL", "ELECTRICAL", "MECHANICAL" ],
-    common: [1, 2],
-    data: {
-      1: { common: {
-        syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVNVa2VYUzdSNmpvMWY2MnRIdUpETHFBR3pGSW5RRXpNP3VzcD1kcml2ZV9saW5r",
-        books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWlCY0EyNGEtUVk2ZXpLTzJ5Y0RKUExlWEsxVUEzQTc1P3VzcD1kcml2ZV9saW5r",
-        notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUlaRzhCTW5OV0ZmRXNfVTRDN1BQeDZhVDd1bVhKUHRRP3VzcD1kcml2ZV9saW5r",
-        questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWRGX1A3SHhXekVZNGhUNzBEZFBOaEt5ejc2cngxTHZmP3VzcD1kcml2ZV9saW5r",
-        videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUJTSVJDMGtoQVEwb2RwZ3hNcnQyOXJlYXhTbmlQQ1VlP3VzcD1kcml2ZV9saW5r",
-        papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUVkWlBvdGpZTnk5R0czc0U0Z1dyNk1xSmRrUDBGOXlzP3VzcD1kcml2ZV9saW5r"
-      }},
-      2: { common: {
-        syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXV4NjRGZWM2VllpYnNjcTRtdzIyQ2xEalFYUHdpQklhP3VzcD1kcml2ZV9saW5r",
-        books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVJLbVpMeFQ5NUFMa180SGJaWC0xcnNXb0VJZUZ4V2piP3VzcD1kcml2ZV9saW5r",
-        notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVZ1Q1Fyb09SQ0NVSy1Eci1VRnYzamhJMEVReHJpUDZlP3VzcD1kcml2ZV9saW5r",
-        questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUdQdW5GOGRJRTAzZi1oeFZKa0VocWNEWXBNRVBGRGZVP3VzcD1kcml2ZV9saW5r",
-        videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUJiU0tQc042LVRqRnRSQ3RBM25rUjFCaC04b3BLSHloP3VzcD1kcml2ZV9saW5r",
-        papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTNwZW1RdUtvMWdpcDNEQXlmdjEzS21yWFh3emVHTnFBP3VzcD1kcml2ZV9saW5r"
-      }},
-      // Add more semesters and branches as needed
-      3: {
-        CIVIL: {
-          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWN5RFBKdjBnd0tFU1Fqc3Y1MnJPQU02MGR1SVphM3U2P3VzcD1kcml2ZV9saW5r",
-          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTFSam5jX1FYQkhqSk1HVlUyUU9ncG1iREl4ZFl1UEFKP3VzcD1kcml2ZV9saW5r",
-          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMS1kOUoxMEhLTWhPSGJNcGM4aHpXMDJMemxKWGx3cm9iP3VzcD1kcml2ZV9saW5r",
-          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWdJRUNrbUlpS1ItdUZITTJ3SlVmTFNYdlZsVUpKWGY0P3VzcD1kcml2ZV9saW5r",
-          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWxyeXozbFpvLWxWU3ktNWhBZmpOaXk5QmdHRVpNMHFKP3VzcD1kcml2ZV9saW5r",
-          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVBXY3RkRlkzcUJ2cGNCTVhuTDlNYUotcDQxenZRd2NtP3VzcD1kcml2ZV9saW5r"
-        },
-        ELECTRICAL: {
-          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTh0bFdHeThaSDdsTG1lV280TXp6Vm90NV90MEdhYTllP3VzcD1kcml2ZV9saW5r",
-          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXMtaGZTdXF3bU5CUWc3dVlUWmNDbGhyd05mOGY2eUJRP3VzcD1kcml2ZV9saW5r",
-          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVJ3SGZtMnJlLTYyZ2JDVGxlUFBnNTJlanpzQVhXbjExP3VzcD1kcml2ZV9saW5r",
-          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWZ5M18yZHJvdzhMZnd3YUFENDhnMG45VU5UTjN3S2ZnP3VzcD1kcml2ZV9saW5r",
-          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWwzVGpPeXFLYW13MV9YcTY0QmluX3dGcHdjQ09mUFRpP3VzcD1kcml2ZV9saW5r",
-          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMThwdHA0WjBmTEdFQjMxMUdRTHpBZEJEWVA3MG05YmpLP3VzcD1kcml2ZV9saW5r"
-        },
-        MECHANICAL: {
-          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVp4eTF3bFNLV1hsdjZmcVIyZzF0VlJNX0VfLVBBRGJqP3VzcD1kcml2ZV9saW5r",
-          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXNVQmVIU3dqelZjMk9vU0tBU1FHSHhhV3VlVTRIRVdVP3VzcD1kcml2ZV9saW5r",
-          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMURPcExfY0x4bW81akJSbFFPdmhuV0dOV2dReEljVkZTP3VzcD1kcml2ZV9saW5r",
-          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXJCM2h1MURmcC1ZNDBqLWJySm80U0hSQW9OVU1TOFd4P3VzcD1kcml2ZV9saW5r",
-          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUZJMnV4NHgxTE9Lb0ZaV1NXZGhRanZZZDJ3U2l3bWdiP3VzcD1kcml2ZV9saW5r",
-          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTVocVNLSWtDQWRZMklJd1d5Sm9BdXlPZzdSZ3B3TVZTP3VzcD1kcml2ZV9saW5r"
-        }
-        
-      },
-      // Add more semesters and branches as needed
-      4: {
-        CIVIL: {
-          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWRNcU56Q1ZRcGVvOU40RjZubGw1WnpBVGdRMURTdktoP3VzcD1kcml2ZV9saW5r",
-          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMU14MVJfM0ltSkZLYXl1ZXZkT0lGN3JxU2N2NmNvaGk3P3VzcD1kcml2ZV9saW5r",
-          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVlFb1dtSTRfNWt0cHhwblhIREVpM2NEZTRnWG5pdEo3P3VzcD1kcml2ZV9saW5r",
-          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWtmWXhHcXNuY0k2N0ZyeWtpcTQ5SDhncHJNUmZDamVKP3VzcD1kcml2ZV9saW5r",
-          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXZRbkR6SlFSbWJ5Wmx1b0FJTjl6cDAyYVk0MnJWUGRBP3VzcD1kcml2ZV9saW5r",
-          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWV3X3Q3NGlXQVhKaDFLQ1FTSnF0LTlYMmhYeVBZWFNGP3VzcD1kcml2ZV9saW5r"
-        },
-        ELECTRICAL: {
-          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTBTd0x2WU5FV1RqbFVUcjFXaExISm5BNE5tZmJhd1BYP3VzcD1kcml2ZV9saW5r",
-          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVg4ODd4OHhUU0s2SVctRGpFN2ZVcVVFRGFhdEt2dG9QP3VzcD1kcml2ZV9saW5r",
-          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUJuWGY4SGpOdS03NXJ0RWdUem1TbjFOdWhOdmF2WUlOP3VzcD1kcml2ZV9saW5r",
-          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVFMSzdpV0VVczRZMnBkanZNRllBcURKWUpFcUJCeTRvP3VzcD1kcml2ZV9saW5r",
-          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVVDNEVteFMyUEpIbjhpckxGVU45Q3pRaV9HNkJ0T0o1P3VzcD1kcml2ZV9saW5r",
-          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMW40ZmVFWjlwUWlTSjVKZHZ0bGliSF9vci02cjlSc2JUP3VzcD1kcml2ZV9saW5r"
-        },
-        MECHANICAL: {
-          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMU1yUWRJdEdmak5uMXl5Y25jT2liLU0tR2IzcENVOVFUP3VzcD1kcml2ZV9saW5r",
-          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWJsWlV3ejdBM2RUMXFzam91cnE4c1g2QkVlM2JUT011P3VzcD1kcml2ZV9saW5r",
-          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXNodUdBTlNKWFRjT3NNdUVqUk9OaEdTcFB6TXRwYVRIP3VzcD1kcml2ZV9saW5r",
-          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMThWZmdYcGxESVp5My1ILUJuTk03d2R5UnpRTHNhMHFNP3VzcD1kcml2ZV9saW5r",
-          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMThRYlI5MW83TF9BV3VzRzV0Q0diMkY2cGZCSTRfYmVvP3VzcD1kcml2ZV9saW5r",
-          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTJwUWFuU044alV5b2xpZFdMM09uTlFrb1FRNkNMekRhP3VzcD1kcml2ZV9saW5r"
-        }
-      },
-      // Add more semesters and branches as needed
-      5: {
-        CIVIL: {
-          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWxGOHZhVzJpc2ZhWTVUdlJlNWJjMFNWNnhOUDdhZjZnP3VzcD1kcml2ZV9saW5r",
-          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTJUYTVGNE1mQnZibjBPN3dVVjVuU2ZqQTc5QWI2b19ZP3VzcD1kcml2ZV9saW5r",
-          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMS1pRFdCVDRHdGhrV3JFa1NNRTNJc2lqaTVEbURCc0NhP3VzcD1kcml2ZV9saW5r",
-          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTA5Y2ZvbGFlOUZrWTI1eVQ3T3VHZWhKVjdPNXB6OGNNP3VzcD1kcml2ZV9saW5r",
-          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMU43aktHUENVTUdTODlsb3hVZW9EdGFMbzZEWEd6OWJVP3VzcD1kcml2ZV9saW5r",
-          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWtmWUs3ekczbWRxeThGdmlSMUhFSkM5LTZhZVdhcWlBP3VzcD1kcml2ZV9saW5r"
-        },
-        ELECTRICAL: {
-          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUd4ZHhtanNwN200QTdwSDBKR25NV283aFBmZ2hzYU1vP3VzcD1kcml2ZV9saW5r",
-          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUd4RTNyVWVtWTFxVTFKa3hFdzhYLTBhUnMwMlIwOXJ1P3VzcD1kcml2ZV9saW5r",
-          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVZCcWdVdW1UNlVUekp2RW1VUlp3bXdaTEVhSElOTHRjP3VzcD1kcml2ZV9saW5r",
-          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXVWSXJ3TFZZZ1VHQ1ptLUQ5RDlJSzMzNjE1UVFzb21ZP3VzcD1kcml2ZV9saW5r",
-          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUxzVzdUR2ZzNUJpb210VjN6MjVvSFFiOTU2RjBuMkJUP3VzcD1kcml2ZV9saW5r",
-          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWtVajJYakNOSTVDSVFLX0V5NTBPd2daMlRhV0I3TVowP3VzcD1kcml2ZV9saW5r"
-        },
-        MECHANICAL: {
-          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUVKcmxJaTFJaVpCbE5wbGJQTWltVVdCaWxqNVU3b3hiP3VzcD1kcml2ZV9saW5r",
-          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMW5ZenFmY21IMmhuV1haWW1JOWVEWWxkN0cxWUNTazdIP3VzcD1kcml2ZV9saW5r",
-          notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWZwdnRCYUd2OGxTQ0Ryc3N2eTRiT25JV0h2X2NZUzJKP3VzcD1kcml2ZV9saW5r",
-          questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVgzWk5LTW83aVRxU3FyUWtOUzBIUU1KRnBOdGdIMlg1P3VzcD1kcml2ZV9saW5r",
-          videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVVlSi1CYVl4RFU2Q01JTWtpUGU3T1p1ajJ4REJTeVloP3VzcD1kcml2ZV9saW5r",
-          papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXBpczRGNEFBdDFHWThpVjlFZUtkekpnSFBURTc0aHNEP3VzcD1kcml2ZV9saW5r"
-        }
-        
-      },
-      // Add more semesters and branches as needed
-      6: {
-          CIVIL: {
-            syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXd0MHNZUDFOcnctNzA3VXRfWXhRenpvM0lwZ1ZRT3ExP3VzcD1kcml2ZV9saW5r",
-            books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXN4VlVBdWJFMVRMdkdsczlOaWxBSW50SmhySTJZN0JDP3VzcD1kcml2ZV9saW5r",
-            notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTZ2UGpNcnl3S3FtbVlWRm9td0dYUEhVVzctWTdfY3JmP3VzcD1kcml2ZV9saW5r",
-            questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWI2M3c5d0JxOERoOEVwVDRic2ZaMGE5VHBRU3dyVHN5P3VzcD1kcml2ZV9saW5r",
-            videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUJqZ1FvTHhlUUNTVTMzWXREVW1zRHVKVXdLWTRwdTVjP3VzcD1kcml2ZV9saW5r",
-            papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXZQbDFUOGQ0bExmMWlaaXFrM2VHUVJkOFhHS012UU9CP3VzcD1kcml2ZV9saW5r"
-          },
-          ELECTRICAL: {
-            syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVhWUUtrSVl4a0dmV2dUR24zR3ZzcVhlczVfZV9Sb0pvP3VzcD1kcml2ZV9saW5r",
-            books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXJ1Z24ycUp5ZE5EaC1YN3l0dGNhampoN0hzSGp3RWljP3VzcD1kcml2ZV9saW5r",
-            notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWd6dzdvYllRN0JKaFBxTl9uMUFNZHZkd1o2d08tTFFvP3VzcD1kcml2ZV9saW5r",
-            questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXJpSGQ1TFMyTWMxNHlQbi10Qm5XN2xISUNRaWR4YkhBP3VzcD1kcml2ZV9saW5r",
-            videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUFkOFhOcFJzallUMXFuQWF5cTBVLXE0WmpjeGRieTNiP3VzcD1kcml2ZV9saW5r",
-            papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMThNczZKdWw4SzJWM0VCU0VzaDNRMkZrOFJ4NUc3MjJDP3VzcD1kcml2ZV9saW5r"
-          },
-          MECHANICAL: {
-            syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXdPMFgxYkU4Z1ZhMkQxMlk4YThwb3JkYy0wV0lsai1QP3VzcD1kcml2ZV9saW5r",
-            books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXZPSkhkU0tDSllaVzdfYkFyZnlWM25PbFUzYjV6Uk5EP3VzcD1kcml2ZV9saW5r",
-            notes: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXBiN0dZWlpXN0NoZlQ4ckdYSzRQRlo2cTJhOE1hbFgtP3VzcD1kcml2ZV9saW5r",
-            questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWZOc0NBLUMzQTJxalpBOENZVWxWOFVUOV9sUjl0QnFuP3VzcD1kcml2ZV9saW5r",
-            videos: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWtpUWZ2RTVJTE5kdkwwSERqbl93eHhza2pXVkt5em9uP3VzcD1kcml2ZV9saW5r",
-            papers: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXdMWjhBcVdNMmxCTW12YnpXR3BiWGdOX0MwLUttTmxPP3VzcD1kcml2ZV9saW5r"
-          }
-          
-        },
-      // Add more semesters and branches as needed
 
-      // Add more semesters and branches as needed
     }
   },
+
   // Add other courses like mtech, mba, etc.
 };
 
