@@ -427,5 +427,74 @@ export const courseData = {
     }
   },
   // Add other courses like mtech, mba, etc.
+    mtech: {
+    semesters: 3,
+    branches: ["CSE", "CTM", "DCE","PRODUCTION" ],
+    common: [],
+    data: {
+      1: {
+        CSE: {
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMW9QdzZlTFNoeFU2LXoydXYyOUo1bnRzdVl6RUxOb2RJP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXRmb1E1N2hteGg2QTJZOV9YX0JVa3FMNVh2T0FHSm1tP3VzcD1kcml2ZV9saW5r",
+        },
+        CTM: {
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTFCWTEyYUQ3SElHU0JIb3lTRnBnM3FYSmdUblNLTTkxP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXpETDNJMFVIM2FzS2JXR2d3NlJrcmNBX21BVHNDbGIwP3VzcD1kcml2ZV9saW5r",
+        },
+        DCE: {
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMW1PY1pLM1ZXd3RyZ2tKRG1vd3hkLUVEQTUxR3I4eTJYP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMU8zR2hwbkdSU0pqakJ3b1dTVk0wSi1LaXVVSnVrdWFYP3VzcD1kcml2ZV9saW5r",
+        },
+        PRODUCTION: {
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVJDUXQ2WHh4MFRyRFNIYk01Z1Rud3FyLTZtUU5PcVVGP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXFrWXBGUTJFWTFsVEFPcnBmQlppUi1KZEdPMFJ6V21HP3VzcD1kcml2ZV9saW5r",
+        }
+        
+      },
+      // Add more semesters and branches as needed
+      2: {
+        CSE: {
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTRNUlczdmFKRy1yYkRuVGRxZEZQQVVaSFZWMTFUVkdtP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXh6Qkg4UVhWUHpoak56VVdib25pdkZpaDNzZ3hxZTFpP3VzcD1kcml2ZV9saW5r",
+        },
+        CTM: {
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVZjRXJicW9McDNfV1I4VE9BMzhrMVllT20zNk5OZnFBP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXpiMmEtaU5CTHh1NUZVNzM3czlWb0g5QVVIMzdDRjhTP3VzcD1kcml2ZV9saW5r",
+        },
+        DCE: {
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXk2c1VNQjZ4WjhOUVEtRUdkR3RmQXFhVEYxV2ZyYXM5P3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXBlVlNWT0VGTDJfcDVOdG1UQXRIZEhYeFpYV2JXdmU0P3VzcD1kcml2ZV9saW5r",
+        },
+        PRODUCTION: {
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVFrcTBzS1VSZkNCSmdXcEtOeGdLemtQd2p1LUh3TUtXP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTBER3Q1RlY2cDRoY1NzTmVOOXRfVm1ydGFBak5sOTlWP3VzcD1kcml2ZV9saW5r",
+        }
+        
+      },
+      // Add more semesters and branches as needed
+      3: {
+        CSE: {
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUdhbzJSUmdvTlVCY3NCUDZ2ak1ZWjlNYXB1ek4yNmpRP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVlMNG5jWi0zUnF2M0lqcjdyZDR4bEJ2MEJMRGI0c1BVP3VzcD1kcml2ZV9saW5r",
+        },
+        CTM: {
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWVtcGF3c0NzczZocFcwaUFSWEdKZG1fVDExcHFhTDBzP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTNQLTY2ckI1SUoxbDdzTktyWGxhU3VfX2wwZWpVQ2FWP3VzcD1kcml2ZV9saW5r",
+        },
+        DCE: {
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTlaU0h1akRiTThIQldGa1EwRmxCX0RaOU5keFdhMkNKP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWxBWmdLVktXQUNwNkI5QWlCRGQtRTh1cVFhcndxZmFZP3VzcD1kcml2ZV9saW5r",
+        },
+        PRODUCTION: {
+          syllabus: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTU0TWtXY2NQMjdUY3RZMzdwN1hfdkI1XzNiVWlqQk8yP3VzcD1kcml2ZV9saW5r",
+          books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMU9GMllobjByeGlBaDBITFE2QXdMU0xDZ1RqSFQ0SnAwP3VzcD1kcml2ZV9saW5r",
+        }
+      },
+      // Add more semesters and branches as needed
+
+      // Add more semesters and branches as needed
+    }
+  },
+  // Add other courses like mtech, mba, etc.
 };
 
