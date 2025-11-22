@@ -491,10 +491,34 @@ export const courseData = {
         }
       },
       // Add more semesters and branches as needed
-
       // Add more semesters and branches as needed
     }
   },
   // Add other courses like mtech, mba, etc.
+    mba: {
+    semesters: 4,
+    branches: [],
+    common: [1, 2, 3, 4],
+    data: {
+      1: { common: {
+        questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWJHNGItOGFYVDJ5YldKNjVnaUxxOGZBZkxqRFZxV250P3VzcD1kcml2ZV9saW5r",
+        books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTdMb21tT2NMT19vZVpLc2xUUjA0MEZrUVdKd1ZvQXhpP3VzcD1kcml2ZV9saW5r"
+      }},
+      2: { common: {
+        questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMW5QWldGQlluSHJySHpNYlEzdld1R1lZRGF2eXNkVF9EP3VzcD1kcml2ZV9saW5r",
+        books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMURCeXJUYnNLZnBYWEF3ZnFNRlc4cnA3dVVTejBkSmM0P3VzcD1kcml2ZV9saW5r"
+      }},
+      3: { common: {
+        questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWljY0pLYzdxNERYX2VUeEl5ZnJCaGg2QUpvZFBDYUdkP3VzcD1kcml2ZV9saW5r",
+        books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMU9PQTNZYXhFd3c0V0NYVW5pZ1lid0tSYzdNUWh0T3VVP3VzcD1kcml2ZV9saW5r"
+      }},
+      4: { common: {
+        questions: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVp5aTBpdHZEV2FMT2ZGMUVScUwzbkxlWGQtR3U0Qy01P3VzcD1kcml2ZV9saW5r",
+        books: "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMW1KMGsyLWcyYzg1OFR0Slh4X2lBUUFtdXItdmk3dXJrP3VzcD1kcml2ZV9saW5r"
+      }},
+      // Add more semesters and branches as needed
+      // Add more semesters and branches as needed
+    }
+  },
 };
 
