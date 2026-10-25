@@ -115,7 +115,7 @@
   </div>
 -->
 
-  <!-- Maintenance & Redirect Notice -->
+  <!-- Maintenance & Auto-Redirect Notice -->
   <div class="relative z-20 p-6 bg-white/10 backdrop-blur-md rounded-xl border border-yellow-400/30 text-center max-w-md mx-auto">
     <h2 class="text-2xl font-bold text-yellow-300 mb-3">🚧 Under Maintenance</h2>
     
@@ -123,18 +123,34 @@
       Development ke chalte abhi yeh site temporarily down hai.
     </p>
     
-    <p class="text-yellow-100 text-sm mb-6">
-      Kripya hamari nayi website par visit karein:
+    <p class="text-yellow-100 text-sm mb-4">
+      Aapko <span id="countdown" class="font-bold text-white text-base">5</span> second me nayi site par redirect kiya ja raha hai...
     </p>
     
     <a href="https://ntechbay-library.web.app/" 
-       target="_blank" 
-       rel="noopener noreferrer" 
        class="inline-block bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-2.5 rounded-lg shadow-md transition duration-200">
-      Visit New Site ↗
+      Abhi Jaayein (Go Now) ↗
     </a>
   </div>
 </div>
+
+<script>
+  let seconds = 6;
+  const targetUrl = "https://ntechbay-library.web.app/";
+  const countdownEl = document.getElementById("countdown");
+
+  const interval = setInterval(() => {
+    seconds--;
+    if (countdownEl) countdownEl.textContent = seconds;
+    
+    if (seconds <= 0) {
+      clearInterval(interval);
+      window.location.href = targetUrl;
+    }
+  }, 1000);
+</script>
+
+<!-- Locked Section end -->
 
 <!-- Floating Animation Script -->
 <script>
